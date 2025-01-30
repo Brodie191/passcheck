@@ -115,12 +115,5 @@ pre {
     font-family: 'Press Start 2P', sans-serif;
 }
 
-.pixel-lock {
-    width: 50px; /* Adjust size as needed */
-    height: 50px;
-    margin-right: 10px; /* Space between lock and text */
-    image-rendering: pixelated; /* Maintain pixelated look */
-    vertical-align: middle;
-}
 
 
